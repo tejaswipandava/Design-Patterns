@@ -1,0 +1,33 @@
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.exe
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.deps.json
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.json
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.dev.json
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.pdb
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.csprojAssemblyReference.cache
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfoInputs.cache
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfo.cs
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.pdb
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.csprojAssemblyReference.cache
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfoInputs.cache
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfo.cs
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.pdb
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.exe
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.deps.json
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.json
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.dev.json
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\Abstract factory project\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.pdb
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.exe
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.deps.json
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.json
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.runtimeconfig.dev.json
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\bin\Debug\netcoreapp3.1\Parkingmanagment.pdb
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.csprojAssemblyReference.cache
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfoInputs.cache
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.AssemblyInfo.cs
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.dll
+F:\WebSite Material\Design Patterns\AAAAAAAAAAAAAA\Parkingmanagment\obj\Debug\netcoreapp3.1\Parkingmanagment.pdb
