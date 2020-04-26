@@ -9,7 +9,7 @@ namespace Parkingmanagment
 
         public ParkingClient()
         {
-            parkingObject = new ParkingLotFactory();
+            parkingObject = ParkingLotFactory.getInstance;
         }
 
         public string GetInput()
@@ -19,7 +19,7 @@ namespace Parkingmanagment
             Console.WriteLine("2 for Car");
             Console.WriteLine("3 for EV");
             Console.WriteLine("4 for Transport");
-            string sel =  Console.ReadLine();
+            string sel = Console.ReadLine();
             return sel;
         }
 

@@ -1,8 +1,14 @@
 ﻿using System;
 namespace Parkingmanagment
 {
-    public class LevelOneParking : Iparking
+    public sealed class LevelOneParking : Iparking
     {
+        private static readonly LevelOneParking Instance = new LevelOneParking();
+        public static LevelOneParking getInstance
+        {
+            get { return Instance; }
+        }
+
         public int SpaceOccupied { get; set; } = 0;
         public int TotalSpace { get; set; } = 1000;
 

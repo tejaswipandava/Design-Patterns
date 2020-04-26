@@ -2,8 +2,14 @@
 
 namespace Parkingmanagment
 {
-    public class LevelTwoParking :Iparking
+    public sealed class LevelTwoParking : Iparking
     {
+        private static readonly LevelTwoParking Instance = new LevelTwoParking();
+        public static LevelTwoParking getInstance
+        {
+            get { return Instance; }
+        }
+
         public int SpaceOccupied { get; set; } = 0;
         public int TotalSpace { get; set; } = 1000;
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\WebSite Material\\Design Patterns\\AAAAAAAAAAAAAA\\Parkingmanagment\\Parkingmanagment.csproj",
+      "projectUniqueName": "F:\\WebSite Material\\Design Patterns\\Singleton Projects\\Parkingmanagment\\Parkingmanagment.csproj",
       "projectName": "Parkingmanagment",
-      "projectPath": "F:\\WebSite Material\\Design Patterns\\AAAAAAAAAAAAAA\\Parkingmanagment\\Parkingmanagment.csproj",
+      "projectPath": "F:\\WebSite Material\\Design Patterns\\Singleton Projects\\Parkingmanagment\\Parkingmanagment.csproj",
       "packagesPath": "C:\\Users\\tejaswi\\.nuget\\packages\\",
-      "outputPath": "F:\\WebSite Material\\Design Patterns\\AAAAAAAAAAAAAA\\Parkingmanagment\\obj\\",
+      "outputPath": "F:\\WebSite Material\\Design Patterns\\Singleton Projects\\Parkingmanagment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
